@@ -10,9 +10,6 @@ affiliates. Other names may be trademarks of their respective
 owners.
 
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
-
-
-
 mysql> create database payroll_services;
 Query OK, 1 row affected (0.22 sec)
 
